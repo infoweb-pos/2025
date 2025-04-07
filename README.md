@@ -26,3 +26,5 @@
 | Data  | Nota |
 | ----- | ---- |
 | 07/04 | Apresentação da disciplina. |
+| 10/04 | Criando o primeiro projeto react... em breve a tarefa |
+| 14/07 | em breve a tarefa |
