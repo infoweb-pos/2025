@@ -32,7 +32,8 @@
 | ----- | ---- |
 | 07/04 | **1o bimestre**<br />Apresentação da disciplina. |
 | 10/04 | [Criando o primeiro projeto react](https://github.com/infoweb-pos/2025-pos-react-criar-projeto) |
-| 14/04 | em breve... |
+| 14/04 | revisão da atividade<br />[react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
+| 17/04 | [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
 | 24/04 | em breve... |
 | 26/04 | em breve... |
 | 28/04 | em breve... |
