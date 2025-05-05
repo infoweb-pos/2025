@@ -34,11 +34,11 @@
 | 10/04 | [Criando o primeiro projeto react](https://github.com/infoweb-pos/2025-pos-react-criar-projeto) |
 | 14/04 | revisão da atividade<br />[react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
 | 17/04 | [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
-| 24/04 | em breve... |
-| 26/04 | em breve... |
-| 28/04 | em breve... |
-| 05/05 | em breve... |
-| 08/05 | em breve... |
+| 24/04 | [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
+| 26/04 | [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
+| 28/04 | [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-react-conceitos) |
+| 05/05 | [compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes) |
+| 08/05 | [compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes) |
 | 10/05 | em breve... |
 | 12/05 | em breve... |
 | 15/05 | em breve... |
